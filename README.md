@@ -28,6 +28,7 @@ by referencing a Docker image.
 To set up a new app:
 
 1. Log in to DigitalOcean and use the left-hand "Manage" toolbar or the top "Create" dropdown to navigate to the App Platform.
+
     ![img.png](img.png)
 2. Select Github or Docker Hub as your source, depending on whether the app is Dockerised or not.
 3. Use the wizard to complete the setup.
@@ -45,6 +46,7 @@ DigitalOcean apps can contain multiple services (e.g. a front-end and a back-end
 We also use DigitalOcean to manage DNS for `seroanalytics.org`. To add or change DNS records, you will need to be a member 
 of the `seroanalytics` team on DigitalOcean - ask an existing member to add you. DNS is managed via the "Networking" tab on the left-hand
 menu:
+
 ![img_1.png](img_1.png)
 
 ## Namecheap
